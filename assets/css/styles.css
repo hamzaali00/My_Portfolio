@@ -5,7 +5,7 @@ body {
 body {
     margin: 5px;
     padding-bottom: 70px;
-    background-color: red;
+    background-color: whitesmoke;
 }
 h1,
 h2,
@@ -41,7 +41,7 @@ section h2 {
 }
 
 .bg-dark {
-    background-color: #2f3542 !important;
+    background-color: #434c5e !important;
 }
 
 .btn-social {
@@ -203,12 +203,12 @@ header.masthead h2 {
 .footer {
     padding-top: 5rem;
     padding-bottom: 5rem;
-    background-color: #1a252f;
+    background-color: #2f3542;
     color: #fff;
 }
 
 .copyright {
-    background-color: #1a252f;
+    background-color: #2f3542;
 }
 
 a:focus,
@@ -218,13 +218,13 @@ a:active {
 }
 
 .close-link {
-    color: #30336b;
+    color: #2f3542;
 }
 
 .close-link:focus,
 .close-link:hover,
 .close-link:active {
-    color: #30336b;
+    color: #2f3542;
 }
 
 .btn {
@@ -232,30 +232,30 @@ a:active {
 }
 
 .bg-primary {
-    background-color: #30336b !important;
+    background-color: #2f3542 !important;
 }
 
 .bg-secondary {
-    background-color: #2c3e50 !important;
+    background-color: #2f3542 !important;
 }
 
 .text-primary {
-    color: #30336b !important;
+    color: #2f3542 !important;
 }
 
 .text-secondary {
-    color: #2c3e50 !important;
+    color: #2f3542 !important;
 }
 
 .btn-primary {
-    background-color: #30336b;
-    border-color: #30336b;
+    background-color: #2f3542;
+    border-color: #2f3542;
 }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-    background-color: #30336b !important;
-    border-color: #30336b !important;
+    background-color: #2f3542 !important;
+    border-color: #2f3542 !important;
     color: #fff;
 }
